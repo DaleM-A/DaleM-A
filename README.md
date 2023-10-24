@@ -1,7 +1,7 @@
   # Welcome
 
 # Dale Malcolm-Adams
-  **`Tech enthusiast (Selling it, Developing it, Using it)`**
+  **`Tech_Enthusiast(Selling it, Developing it, Using it)`**
 
 ## Currently Mastering:
 
