@@ -26,7 +26,7 @@
 :soccer: &nbsp; Gooner
 
 ## Current Projects
-
+Custom Python Music Player, check it out https://github.com/DaleM-A/Music-Player-Project - Still a work in progress, any support is welcome!
 <!---
 DaleM-A/DaleM-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
